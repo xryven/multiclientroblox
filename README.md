@@ -6,7 +6,7 @@ This script uses the line
 to block Roblox’s default mutex, allowing multiple instances.
 ### 📣 Important information
 This script completly works and the mutex also works, sadly to the new Roblox updates the script<br>
-wont work like expected! It still works but sometimes the roblox clients close. <mark>There is no current solution!</mark>
+wont work like expected! It still works but sometimes the roblox clients close.<mark> There is no current solution! </mark>
 ### ❓ Why should I use this?  
 If you're playing a game that isn’t an obby or tycoon, this script can significantly enhance your experience.  
 It allows you to run multiple Roblox clients simultaneously (default limit is 1).  
