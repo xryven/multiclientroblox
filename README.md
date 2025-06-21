@@ -4,6 +4,8 @@
 This script uses the line  
 `Mutex mutex = new Mutex(true, "ROBLOX_singletonMutex");`  
 to block Roblox’s default mutex, allowing multiple instances.
+Client.pyw = Full client, notifications and System-tray.
+Pure.pyw = The pure functionality, nothing else.
 ### 📣 Important information
 This script completly works and the mutex also works, sadly to the new Roblox updates the script<br>
 wont work like expected! It still works but sometimes the roblox clients close. <mark>**There is no current solution!**</mark>
