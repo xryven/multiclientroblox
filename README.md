@@ -18,5 +18,10 @@ It can also be useful for testing, development, or other purposes.
 Simply build this script to an executable by running:<br>
 `python -m PyInstaller --onefile --noconsole --icon=icon.ico --optimize=2 name.pyw` <br>
 The executable will be created in the `dist/` folder.
+| File | Notifications | System-Tray |  |  |
+|:---:|:---:|---|---|---|
+| Client.pyw | ☑️ | ☑️ |  |  |
+| Pure.pyw | ✖️ | with .pyw |  |  |
+| Debug.py | ✖️ | ☑️ |  |  |
 ---
 If you can help me fixing the Script feel free to `Contact: adrbae244@gmail.com` me
