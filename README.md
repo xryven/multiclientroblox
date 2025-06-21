@@ -1,6 +1,5 @@
 # 🚀 Multiclient Roblox Mutex Unlocker
-![Python](https://img.shields.io/badge/Python-yellow?style=flat) ![Multi Roblox instance unlocker](https://img.shields.io/badge/Multi_Roblox_instance_unlocker-black?style=flat) ![Complete freeware](https://img.shields.io/badge/Complete_freeware-black?style=flat) ![Adfree](https://img.shields.io/badge/Adfree-black?style=flat)
-
+![Python](https://img.shields.io/badge/Python-yellow?style=flat) ![Github](https://img.shields.io/badge/Github-black?style=flat)
 ### 💡 How does it work?  
 This script uses the line  
 `Mutex mutex = new Mutex(true, "ROBLOX_singletonMutex");`  
