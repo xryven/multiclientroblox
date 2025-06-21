@@ -1,5 +1,6 @@
 # 🚀 Multiclient Roblox Mutex Unlocker
-![Multi Roblox instance](https://img.shields.io/badge/Multi-Roblox_instance-blue?style=flat) ![Freeware](https://img.shields.io/badge/Freeware-yes-green?style=flat)
+![Label1](https://img.shields.io/badge/Label1-black?style=flat) ![Label2](https://img.shields.io/badge/Label2-black?style=flat)
+
 
 ### 💡 How does it work?  
 This script uses the line  
