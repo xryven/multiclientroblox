@@ -1,3 +1,5 @@
+# This script is archived! There will be no updates (due to it not being updateable).
+(It still works tho, it just crashes sometimes)
 # 🚀 Multiclient Roblox Mutex Unlocker
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat) ![Github](https://img.shields.io/badge/Github-black?style=flat)
 ### 💡 How does it work?  
